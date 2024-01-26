@@ -1,51 +1,32 @@
-# trendify
-# Project Screens
+# trendify- Shopping App UI/UX Design
 
-## Onboarding
-- [ ] Implement onboarding screen
+## Onboarding Screens
+- Developed visually appealing onboarding screens for a seamless introduction to the app's features.
+- Ensured a consistent and intuitive design across both Android and Windows platforms.
 
-## Login
-- [ ] Develop login functionality
-- [ ] Design and integrate login screen
+## Sign In and Forgot Password Screens
+- Enhanced Sign In and Forgot Password screens with unique error messages for a personalized experience.
+- Implemented design elements for smooth login and password recovery processes.
 
-## Forgot Password
-- [ ] Create forgot password feature
-- [ ] Design and integrate forgot password screen
+## Sign Up and OTP Processes
+- Crafted a visually striking Sign Up screen and optimized OTP verification for seamless user registration.
+- Implemented intuitive design choices for effective user guidance during the registration journey.
 
-## Sign Up
-- [ ] Develop user registration functionality
-- [ ] Design and integrate sign up screen
+## Main Homepage
+- Designed the main homepage with a focus on user engagement and easy navigation.
+- Incorporated aesthetically pleasing elements and interactive features for an enjoyable user experience.
 
-## Complete Profile
-- [ ] Implement complete profile feature
-- [ ] Design and integrate complete profile screen
+## Product Page
+- Developed a clean and organized layout for effective product showcasing.
+- Maintained a balance between aesthetics and functionality, optimizing the user experience for product exploration.
 
-## OTP Verification
-- [ ] Set up OTP verification process
-- [ ] Design and integrate OTP verification screen
+## Order Page with Swipe to Delete
+- Introduced innovative features like 'swipe to delete' for enhanced user control.
+- Implemented a user-centric design approach for an intuitive order management experience.
 
-## Home Page
-- [ ] Develop the main home page
-- [ ] Integrate necessary features and functionalities
-
-## Product Details
-- [ ] Create product details screen
-- [ ] Integrate product information and features
-
-## Order
-- [ ] Implement order functionality
-- [ ] Design and integrate order screen
-
-## Profile
-- [ ] Develop user profile section
-- [ ] Integrate profile information and features
-
-## Bottom Navigation Bar
-- [ ] Design and implement bottom navigation bar
-- [ ] Ensure smooth navigation between screens
-
-**Note:** Check and update dependencies, permissions, and other configurations as needed.
-
+## User Profile Page
+- Designed a visually appealing and informative user profile page.
+- Focused on delivering a personalized touch to enhance user connection with the app.
 
 ## Screenshots
 ![img_4.png](img_4.png)
