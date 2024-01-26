@@ -16,8 +16,8 @@ class LoginSuccessScreen extends StatelessWidget {
         children: [
           const SizedBox(height: 16),
           Image.asset(
-            "assets/images/success.png",
-            height: MediaQuery.of(context).size.height * 0.4, //40%
+            "assets/images/success.jpg",
+            height: MediaQuery.of(context).size.height * 0.4,
           ),
           const SizedBox(height: 16),
           const Text(

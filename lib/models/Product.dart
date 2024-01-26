@@ -27,10 +27,9 @@ List<Product> demoProducts = [
   Product(
     id: 1,
     images: [
-      "assets/images/ps4_console_white_1.png",
-      "assets/images/ps4_console_white_2.png",
-      "assets/images/ps4_console_white_3.png",
-      "assets/images/ps4_console_white_4.png",
+      "assets/images/tshirt.png",
+      "assets/images/wireless headset.png",
+      "assets/images/shoes2.png",
     ],
     colors: [
       const Color(0xFFF6625E),
@@ -48,7 +47,7 @@ List<Product> demoProducts = [
   Product(
     id: 2,
     images: [
-      "assets/images/Image Popular Product 2.png",
+      "assets/images/shoes2.png",
     ],
     colors: [
       const Color(0xFFF6625E),
@@ -56,7 +55,7 @@ List<Product> demoProducts = [
       const Color(0xFFDECB9C),
       Colors.white,
     ],
-    title: "Nike Sport White - Man Pant",
+    title: "Man shoes",
     price: 50.5,
     description: description,
     rating: 4.1,
@@ -100,10 +99,9 @@ List<Product> demoProducts = [
   Product(
     id: 1,
     images: [
-      "assets/images/ps4_console_white_1.png",
-      "assets/images/ps4_console_white_2.png",
-      "assets/images/ps4_console_white_3.png",
-      "assets/images/ps4_console_white_4.png",
+      "assets/images/tshirt.png",
+      "assets/images/wireless headset.png",
+      "assets/images/shoes2.png",
     ],
     colors: [
       const Color(0xFFF6625E),
