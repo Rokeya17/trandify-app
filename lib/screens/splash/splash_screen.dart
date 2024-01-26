@@ -25,7 +25,7 @@ class _SplashScreenState extends State<SplashScreen> {
       "image": "assets/images/splash_2.png"
     },
     {
-      "text": "We show the easy way to shop. \nJust stay at home with us",
+      "text": "We show the easy way to shop. \nStay at home with us",
       "image": "assets/images/splash_3.png"
     },
   ];
