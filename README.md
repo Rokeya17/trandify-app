@@ -1,6 +1,16 @@
 # trendify
-
-
+Screens it contains:
+-->Onboarding
+-->Login
+-->Forgot Password
+-->Sign Up
+-->Complete Profile
+-->OTP Verification
+-->Home Page
+-->Product Details
+-->Order
+-->Profile
+-->Bottom Navigation Bar 
 
 ## Screenshots
 ![img_4.png](img_4.png)
